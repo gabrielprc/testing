@@ -1,0 +1,1 @@
+importScripts('https://push.getbeamer.com/beamer-push-sw.js');
